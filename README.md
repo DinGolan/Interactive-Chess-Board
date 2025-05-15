@@ -18,18 +18,18 @@ Open `index.html` in your browser to start playing.
 ---
 
 ## 📦 Features 📦
-- Full 8x8 chess grid
-- Unicode characters for chess pieces (black and white)
+- Full 8x8 chess grid.
+- Unicode characters for chess pieces (black and white).
 - Valid moves for :
   - Rook
   - Bishop
   - Knight
   - Queen
   - King
-  - Pawn (single/double start move)
+  - Pawn (single/double start move).
 - Visual feedback :
-  - Selected cell outlined
-  - Possible move cells highlighted
+  - Selected cell outlined.
+  - Possible move cells highlighted.
 
 ---
 
